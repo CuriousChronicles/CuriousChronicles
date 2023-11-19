@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://tenor.com/t8iWl5aWN81.gif" width="100"/>
-</div>
+<div class="tenor-gif-embed" data-postid="16760829579653810809" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809">Text Work Sticker</a>from <a href="https://tenor.com/search/text-stickers">Text Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### Hello! I'm Jayti Pattni 👋
 
