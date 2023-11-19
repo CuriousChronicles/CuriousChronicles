@@ -10,6 +10,7 @@ Welcome to my GitHub profile. I'm a penultimate Computer Systems Engineering Stu
 
 ### Tic-Tac-Toe
 A simple, yet classic game of tic-tac-toe game using python. 
+[Tic-Tac-Toe](https://github.com/CuriousChronicles/Tic-Tac-Toe)
 ### Insurance System
 Assignment from SOFTENG 281
 ### Morra Game
