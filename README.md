@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
 </div>
+
 ### Hello! I'm Jayti Pattni 👋
 
 Welcome to my GitHub profile. I'm a penultimate Computer Systems Engineering Student at the University of Auckland, passionate about exploring the intersection of hardware and software.
