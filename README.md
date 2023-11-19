@@ -10,13 +10,20 @@ Welcome to my GitHub profile. I'm a penultimate Computer Systems Engineering Stu
 
 ### Tic-Tac-Toe
 A simple, yet classic game of tic-tac-toe game using python. 
+
 [Tic-Tac-Toe](https://github.com/CuriousChronicles/Tic-Tac-Toe)
 ### Insurance System
-Assignment from SOFTENG 281
+Assignment from SOFTENG 281 
+
+[Insurance System](https://github.com/CuriousChronicles/softeng281-Insurance-System)
+
 ### Morra Game
-Add github links
+SOFTENG 281 Java Assignment implementing Morra Game.
+
+[Morra Game](https://github.com/CuriousChronicles/softeng281-Morra)
+
 ### Graph Calculator
-Add github links
+SOFTENG 281 Java Assignment.
 
 ## Skills
 ### Programming Languages
