@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/jayti-pattni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img style="text-align: center;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
