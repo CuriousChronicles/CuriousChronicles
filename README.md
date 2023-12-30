@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/jayti-pattni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a style="text-align: center;"> href="https://www.linkedin.com/in/jayti-pattni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
